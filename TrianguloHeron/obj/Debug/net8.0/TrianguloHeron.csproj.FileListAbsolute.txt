@@ -1,0 +1,14 @@
+C:\Users\55799\source\repos\CSHARP_NET_POO\TrianguloHeron\bin\Debug\net8.0\TrianguloHeron.exe
+C:\Users\55799\source\repos\CSHARP_NET_POO\TrianguloHeron\bin\Debug\net8.0\TrianguloHeron.deps.json
+C:\Users\55799\source\repos\CSHARP_NET_POO\TrianguloHeron\bin\Debug\net8.0\TrianguloHeron.runtimeconfig.json
+C:\Users\55799\source\repos\CSHARP_NET_POO\TrianguloHeron\bin\Debug\net8.0\TrianguloHeron.dll
+C:\Users\55799\source\repos\CSHARP_NET_POO\TrianguloHeron\bin\Debug\net8.0\TrianguloHeron.pdb
+C:\Users\55799\source\repos\CSHARP_NET_POO\TrianguloHeron\obj\Debug\net8.0\TrianguloHeron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55799\source\repos\CSHARP_NET_POO\TrianguloHeron\obj\Debug\net8.0\TrianguloHeron.AssemblyInfoInputs.cache
+C:\Users\55799\source\repos\CSHARP_NET_POO\TrianguloHeron\obj\Debug\net8.0\TrianguloHeron.AssemblyInfo.cs
+C:\Users\55799\source\repos\CSHARP_NET_POO\TrianguloHeron\obj\Debug\net8.0\TrianguloHeron.csproj.CoreCompileInputs.cache
+C:\Users\55799\source\repos\CSHARP_NET_POO\TrianguloHeron\obj\Debug\net8.0\TrianguloHeron.dll
+C:\Users\55799\source\repos\CSHARP_NET_POO\TrianguloHeron\obj\Debug\net8.0\refint\TrianguloHeron.dll
+C:\Users\55799\source\repos\CSHARP_NET_POO\TrianguloHeron\obj\Debug\net8.0\TrianguloHeron.pdb
+C:\Users\55799\source\repos\CSHARP_NET_POO\TrianguloHeron\obj\Debug\net8.0\TrianguloHeron.genruntimeconfig.cache
+C:\Users\55799\source\repos\CSHARP_NET_POO\TrianguloHeron\obj\Debug\net8.0\ref\TrianguloHeron.dll

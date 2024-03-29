@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TrianguloHeron/1.0.0": {
+        "runtime": {
+          "TrianguloHeron.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TrianguloHeron/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
