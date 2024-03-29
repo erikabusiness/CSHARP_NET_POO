@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\55799\\source\\repos\\CSHARP_NET_POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3A7050C-33D1-4263-9051-5D7EFDE58761}|TianguloHeronOO\\TrianguloHeronOO.csproj|c:\\users\\55799\\source\\repos\\csharp_net_poo\\tianguloheronoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3A7050C-33D1-4263-9051-5D7EFDE58761}|TianguloHeronOO\\TrianguloHeronOO.csproj|solutionrelative:tianguloheronoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B47003F8-4FCC-4AED-840E-A7A5E078BF62}|PrimeirosExercicios\\PrimeirosExercicios.csproj|c:\\users\\55799\\source\\repos\\csharp_net_poo\\primeirosexercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47003F8-4FCC-4AED-840E-A7A5E078BF62}|PrimeirosExercicios\\PrimeirosExercicios.csproj|solutionrelative:primeirosexercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3A7050C-33D1-4263-9051-5D7EFDE58761}|TianguloHeronOO\\TrianguloHeronOO.csproj|c:\\users\\55799\\source\\repos\\csharp_net_poo\\tianguloheronoo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3A7050C-33D1-4263-9051-5D7EFDE58761}|TianguloHeronOO\\TrianguloHeronOO.csproj|solutionrelative:tianguloheronoo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B47003F8-4FCC-4AED-840E-A7A5E078BF62}|PrimeirosExercicios\\PrimeirosExercicios.csproj|c:\\users\\55799\\source\\repos\\csharp_net_poo\\primeirosexercicios\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47003F8-4FCC-4AED-840E-A7A5E078BF62}|PrimeirosExercicios\\PrimeirosExercicios.csproj|solutionrelative:primeirosexercicios\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47003F8-4FCC-4AED-840E-A7A5E078BF62}|PrimeirosExercicios\\PrimeirosExercicios.csproj|c:\\users\\55799\\source\\repos\\csharp_net_poo\\primeirosexercicios\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47003F8-4FCC-4AED-840E-A7A5E078BF62}|PrimeirosExercicios\\PrimeirosExercicios.csproj|solutionrelative:primeirosexercicios\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\55799\\source\\repos\\CSHARP_NET_POO\\TianguloHeronOO\\Program.cs",
-              "RelativeDocumentMoniker": "TianguloHeronOO\\Program.cs",
-              "ToolTip": "C:\\Users\\55799\\source\\repos\\CSHARP_NET_POO\\TianguloHeronOO\\Program.cs",
-              "RelativeToolTip": "TianguloHeronOO\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAJAAAA",
+              "DocumentIndex": 2,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\55799\\source\\repos\\CSHARP_NET_POO\\PrimeirosExercicios\\Funcionario.cs",
+              "RelativeDocumentMoniker": "PrimeirosExercicios\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\55799\\source\\repos\\CSHARP_NET_POO\\PrimeirosExercicios\\Funcionario.cs",
+              "RelativeToolTip": "PrimeirosExercicios\\Funcionario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T15:10:39.704Z",
+              "WhenOpened": "2024-03-29T18:05:43.065Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Triangulo.cs",
-              "DocumentMoniker": "C:\\Users\\55799\\source\\repos\\CSHARP_NET_POO\\TianguloHeronOO\\Triangulo.cs",
-              "RelativeDocumentMoniker": "TianguloHeronOO\\Triangulo.cs",
-              "ToolTip": "C:\\Users\\55799\\source\\repos\\CSHARP_NET_POO\\TianguloHeronOO\\Triangulo.cs",
-              "RelativeToolTip": "TianguloHeronOO\\Triangulo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\55799\\source\\repos\\CSHARP_NET_POO\\PrimeirosExercicios\\Pessoa.cs",
+              "RelativeDocumentMoniker": "PrimeirosExercicios\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\55799\\source\\repos\\CSHARP_NET_POO\\PrimeirosExercicios\\Pessoa.cs",
+              "RelativeToolTip": "PrimeirosExercicios\\Pessoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T15:02:09.076Z",
+              "WhenOpened": "2024-03-29T17:30:21.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\55799\\source\\repos\\CSHARP_NET_POO\\PrimeirosExercicios\\Program.cs",
+              "RelativeDocumentMoniker": "PrimeirosExercicios\\Program.cs",
+              "ToolTip": "C:\\Users\\55799\\source\\repos\\CSHARP_NET_POO\\PrimeirosExercicios\\Program.cs",
+              "RelativeToolTip": "PrimeirosExercicios\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T17:29:06.297Z",
               "EditorCaption": ""
             }
           ]
