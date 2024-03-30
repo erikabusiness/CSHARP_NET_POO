@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrianguloHeronOO", "Tiangul
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeirosExercicios", "PrimeirosExercicios\PrimeirosExercicios.csproj", "{B47003F8-4FCC-4AED-840E-A7A5E078BF62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estoque", "Estoque\Estoque.csproj", "{4BCF8143-E9C0-49F0-A4D6-C64F15CF6903}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Estoque", "Estoque\Estoque.csproj", "{4BCF8143-E9C0-49F0-A4D6-C64F15CF6903}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstoqueRefactor", "EstoqueRefactor\EstoqueRefactor.csproj", "{BD5D852A-72AD-4C2F-B85C-8664A8ED9A77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{4BCF8143-E9C0-49F0-A4D6-C64F15CF6903}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BCF8143-E9C0-49F0-A4D6-C64F15CF6903}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BCF8143-E9C0-49F0-A4D6-C64F15CF6903}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD5D852A-72AD-4C2F-B85C-8664A8ED9A77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD5D852A-72AD-4C2F-B85C-8664A8ED9A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD5D852A-72AD-4C2F-B85C-8664A8ED9A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD5D852A-72AD-4C2F-B85C-8664A8ED9A77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

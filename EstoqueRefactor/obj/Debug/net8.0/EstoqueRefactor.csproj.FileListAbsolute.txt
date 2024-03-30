@@ -1,0 +1,15 @@
+C:\Users\55799\source\repos\CSHARP_NET_POO\EstoqueRefactor\obj\Debug\net8.0\EstoqueRefactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55799\source\repos\CSHARP_NET_POO\EstoqueRefactor\obj\Debug\net8.0\EstoqueRefactor.AssemblyInfoInputs.cache
+C:\Users\55799\source\repos\CSHARP_NET_POO\EstoqueRefactor\obj\Debug\net8.0\EstoqueRefactor.AssemblyInfo.cs
+C:\Users\55799\source\repos\CSHARP_NET_POO\EstoqueRefactor\obj\Debug\net8.0\EstoqueRefactor.csproj.CoreCompileInputs.cache
+C:\Users\55799\source\repos\CSHARP_NET_POO\EstoqueRefactor\obj\Debug\net8.0\EstoqueRefactor.sourcelink.json
+C:\Users\55799\source\repos\CSHARP_NET_POO\EstoqueRefactor\bin\Debug\net8.0\EstoqueRefactor.exe
+C:\Users\55799\source\repos\CSHARP_NET_POO\EstoqueRefactor\bin\Debug\net8.0\EstoqueRefactor.deps.json
+C:\Users\55799\source\repos\CSHARP_NET_POO\EstoqueRefactor\bin\Debug\net8.0\EstoqueRefactor.runtimeconfig.json
+C:\Users\55799\source\repos\CSHARP_NET_POO\EstoqueRefactor\bin\Debug\net8.0\EstoqueRefactor.dll
+C:\Users\55799\source\repos\CSHARP_NET_POO\EstoqueRefactor\bin\Debug\net8.0\EstoqueRefactor.pdb
+C:\Users\55799\source\repos\CSHARP_NET_POO\EstoqueRefactor\obj\Debug\net8.0\EstoqueRefactor.dll
+C:\Users\55799\source\repos\CSHARP_NET_POO\EstoqueRefactor\obj\Debug\net8.0\refint\EstoqueRefactor.dll
+C:\Users\55799\source\repos\CSHARP_NET_POO\EstoqueRefactor\obj\Debug\net8.0\EstoqueRefactor.pdb
+C:\Users\55799\source\repos\CSHARP_NET_POO\EstoqueRefactor\obj\Debug\net8.0\EstoqueRefactor.genruntimeconfig.cache
+C:\Users\55799\source\repos\CSHARP_NET_POO\EstoqueRefactor\obj\Debug\net8.0\ref\EstoqueRefactor.dll

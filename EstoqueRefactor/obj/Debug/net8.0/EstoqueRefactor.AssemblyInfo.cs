@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Estoque")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("EstoqueRefactor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1330f9dbaf2753c224c758a4294c5d5de2da83e7")]
-[assembly: System.Reflection.AssemblyProductAttribute("Estoque")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Estoque")]
+[assembly: System.Reflection.AssemblyProductAttribute("EstoqueRefactor")]
+[assembly: System.Reflection.AssemblyTitleAttribute("EstoqueRefactor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
