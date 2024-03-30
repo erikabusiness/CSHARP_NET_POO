@@ -1,0 +1,15 @@
+C:\Users\55799\source\repos\CSHARP_NET_POO\CalculoTriangulo\bin\Debug\net8.0\CalculoRetangulo.exe
+C:\Users\55799\source\repos\CSHARP_NET_POO\CalculoTriangulo\bin\Debug\net8.0\CalculoRetangulo.deps.json
+C:\Users\55799\source\repos\CSHARP_NET_POO\CalculoTriangulo\bin\Debug\net8.0\CalculoRetangulo.runtimeconfig.json
+C:\Users\55799\source\repos\CSHARP_NET_POO\CalculoTriangulo\bin\Debug\net8.0\CalculoRetangulo.dll
+C:\Users\55799\source\repos\CSHARP_NET_POO\CalculoTriangulo\bin\Debug\net8.0\CalculoRetangulo.pdb
+C:\Users\55799\source\repos\CSHARP_NET_POO\CalculoTriangulo\obj\Debug\net8.0\CalculoRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55799\source\repos\CSHARP_NET_POO\CalculoTriangulo\obj\Debug\net8.0\CalculoRetangulo.AssemblyInfoInputs.cache
+C:\Users\55799\source\repos\CSHARP_NET_POO\CalculoTriangulo\obj\Debug\net8.0\CalculoRetangulo.AssemblyInfo.cs
+C:\Users\55799\source\repos\CSHARP_NET_POO\CalculoTriangulo\obj\Debug\net8.0\CalculoRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\55799\source\repos\CSHARP_NET_POO\CalculoTriangulo\obj\Debug\net8.0\CalculoRetangulo.sourcelink.json
+C:\Users\55799\source\repos\CSHARP_NET_POO\CalculoTriangulo\obj\Debug\net8.0\CalculoRetangulo.dll
+C:\Users\55799\source\repos\CSHARP_NET_POO\CalculoTriangulo\obj\Debug\net8.0\refint\CalculoRetangulo.dll
+C:\Users\55799\source\repos\CSHARP_NET_POO\CalculoTriangulo\obj\Debug\net8.0\CalculoRetangulo.pdb
+C:\Users\55799\source\repos\CSHARP_NET_POO\CalculoTriangulo\obj\Debug\net8.0\CalculoRetangulo.genruntimeconfig.cache
+C:\Users\55799\source\repos\CSHARP_NET_POO\CalculoTriangulo\obj\Debug\net8.0\ref\CalculoRetangulo.dll

@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\55799\\source\\repos\\CSHARP_NET_POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD5D852A-72AD-4C2F-B85C-8664A8ED9A77}|EstoqueRefactor\\EstoqueRefactor.csproj|c:\\users\\55799\\source\\repos\\csharp_net_poo\\estoquerefactor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD5D852A-72AD-4C2F-B85C-8664A8ED9A77}|EstoqueRefactor\\EstoqueRefactor.csproj|solutionrelative:estoquerefactor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD80F184-5895-4162-BC5B-7DD8AFF5602D}|CalculoTriangulo\\CalculoRetangulo.csproj|c:\\users\\55799\\source\\repos\\csharp_net_poo\\calculotriangulo\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD80F184-5895-4162-BC5B-7DD8AFF5602D}|CalculoTriangulo\\CalculoRetangulo.csproj|solutionrelative:calculotriangulo\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD5D852A-72AD-4C2F-B85C-8664A8ED9A77}|EstoqueRefactor\\EstoqueRefactor.csproj|c:\\users\\55799\\source\\repos\\csharp_net_poo\\estoquerefactor\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD5D852A-72AD-4C2F-B85C-8664A8ED9A77}|EstoqueRefactor\\EstoqueRefactor.csproj|solutionrelative:estoquerefactor\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BCF8143-E9C0-49F0-A4D6-C64F15CF6903}|Estoque\\Estoque.csproj|c:\\users\\55799\\source\\repos\\csharp_net_poo\\estoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BCF8143-E9C0-49F0-A4D6-C64F15CF6903}|Estoque\\Estoque.csproj|solutionrelative:estoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BCF8143-E9C0-49F0-A4D6-C64F15CF6903}|Estoque\\Estoque.csproj|c:\\users\\55799\\source\\repos\\csharp_net_poo\\estoque\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BCF8143-E9C0-49F0-A4D6-C64F15CF6903}|Estoque\\Estoque.csproj|solutionrelative:estoque\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD80F184-5895-4162-BC5B-7DD8AFF5602D}|CalculoTriangulo\\CalculoTriangulo.csproj|c:\\users\\55799\\source\\repos\\csharp_net_poo\\calculotriangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD80F184-5895-4162-BC5B-7DD8AFF5602D}|CalculoTriangulo\\CalculoTriangulo.csproj|solutionrelative:calculotriangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,67 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\55799\\source\\repos\\CSHARP_NET_POO\\EstoqueRefactor\\Program.cs",
-              "RelativeDocumentMoniker": "EstoqueRefactor\\Program.cs",
-              "ToolTip": "C:\\Users\\55799\\source\\repos\\CSHARP_NET_POO\\EstoqueRefactor\\Program.cs",
-              "RelativeToolTip": "EstoqueRefactor\\Program.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAqwBwAAAAUAAAA",
+              "Title": "Retangulo.cs",
+              "DocumentMoniker": "C:\\Users\\55799\\source\\repos\\CSHARP_NET_POO\\CalculoTriangulo\\Retangulo.cs",
+              "RelativeDocumentMoniker": "CalculoTriangulo\\Retangulo.cs",
+              "ToolTip": "C:\\Users\\55799\\source\\repos\\CSHARP_NET_POO\\CalculoTriangulo\\Retangulo.cs",
+              "RelativeToolTip": "CalculoTriangulo\\Retangulo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T19:45:20.32Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-03-30T21:00:58.209Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\55799\\source\\repos\\CSHARP_NET_POO\\EstoqueRefactor\\Produto.cs",
-              "RelativeDocumentMoniker": "EstoqueRefactor\\Produto.cs",
-              "ToolTip": "C:\\Users\\55799\\source\\repos\\CSHARP_NET_POO\\EstoqueRefactor\\Produto.cs",
-              "RelativeToolTip": "EstoqueRefactor\\Produto.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAcwB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T19:45:18.178Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\55799\\source\\repos\\CSHARP_NET_POO\\Estoque\\Program.cs",
-              "RelativeDocumentMoniker": "Estoque\\Program.cs",
-              "ToolTip": "C:\\Users\\55799\\source\\repos\\CSHARP_NET_POO\\Estoque\\Program.cs",
-              "RelativeToolTip": "Estoque\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBUAAAAUAAAA",
+              "DocumentMoniker": "C:\\Users\\55799\\source\\repos\\CSHARP_NET_POO\\CalculoTriangulo\\Program.cs",
+              "RelativeDocumentMoniker": "CalculoTriangulo\\Program.cs",
+              "ToolTip": "C:\\Users\\55799\\source\\repos\\CSHARP_NET_POO\\CalculoTriangulo\\Program.cs",
+              "RelativeToolTip": "CalculoTriangulo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T20:34:58.423Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-03-30T21:00:24.257Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\55799\\source\\repos\\CSHARP_NET_POO\\Estoque\\Produto.cs",
-              "RelativeDocumentMoniker": "Estoque\\Produto.cs",
-              "ToolTip": "C:\\Users\\55799\\source\\repos\\CSHARP_NET_POO\\Estoque\\Produto.cs",
-              "RelativeToolTip": "Estoque\\Produto.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T20:36:01.833Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }
