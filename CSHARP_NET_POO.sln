@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Estoque", "Estoque\Estoque.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstoqueRefactor", "EstoqueRefactor\EstoqueRefactor.csproj", "{BD5D852A-72AD-4C2F-B85C-8664A8ED9A77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoRetangulo", "CalculoTriangulo\CalculoRetangulo.csproj", "{DD80F184-5895-4162-BC5B-7DD8AFF5602D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculoRetangulo", "CalculoTriangulo\CalculoRetangulo.csproj", "{DD80F184-5895-4162-BC5B-7DD8AFF5602D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroFuncionario", "CadastroFuncionario\CadastroFuncionario.csproj", "{7A803923-DE9A-4369-961A-A537EF9A3E12}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{DD80F184-5895-4162-BC5B-7DD8AFF5602D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD80F184-5895-4162-BC5B-7DD8AFF5602D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD80F184-5895-4162-BC5B-7DD8AFF5602D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A803923-DE9A-4369-961A-A537EF9A3E12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A803923-DE9A-4369-961A-A537EF9A3E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A803923-DE9A-4369-961A-A537EF9A3E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A803923-DE9A-4369-961A-A537EF9A3E12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

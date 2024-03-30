@@ -1,0 +1,15 @@
+C:\Users\55799\source\repos\CSHARP_NET_POO\CadastroFuncionario\bin\Debug\net8.0\CadastroFuncionario.exe
+C:\Users\55799\source\repos\CSHARP_NET_POO\CadastroFuncionario\bin\Debug\net8.0\CadastroFuncionario.deps.json
+C:\Users\55799\source\repos\CSHARP_NET_POO\CadastroFuncionario\bin\Debug\net8.0\CadastroFuncionario.runtimeconfig.json
+C:\Users\55799\source\repos\CSHARP_NET_POO\CadastroFuncionario\bin\Debug\net8.0\CadastroFuncionario.dll
+C:\Users\55799\source\repos\CSHARP_NET_POO\CadastroFuncionario\bin\Debug\net8.0\CadastroFuncionario.pdb
+C:\Users\55799\source\repos\CSHARP_NET_POO\CadastroFuncionario\obj\Debug\net8.0\CadastroFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55799\source\repos\CSHARP_NET_POO\CadastroFuncionario\obj\Debug\net8.0\CadastroFuncionario.AssemblyInfoInputs.cache
+C:\Users\55799\source\repos\CSHARP_NET_POO\CadastroFuncionario\obj\Debug\net8.0\CadastroFuncionario.AssemblyInfo.cs
+C:\Users\55799\source\repos\CSHARP_NET_POO\CadastroFuncionario\obj\Debug\net8.0\CadastroFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\55799\source\repos\CSHARP_NET_POO\CadastroFuncionario\obj\Debug\net8.0\CadastroFuncionario.sourcelink.json
+C:\Users\55799\source\repos\CSHARP_NET_POO\CadastroFuncionario\obj\Debug\net8.0\CadastroFuncionario.dll
+C:\Users\55799\source\repos\CSHARP_NET_POO\CadastroFuncionario\obj\Debug\net8.0\refint\CadastroFuncionario.dll
+C:\Users\55799\source\repos\CSHARP_NET_POO\CadastroFuncionario\obj\Debug\net8.0\CadastroFuncionario.pdb
+C:\Users\55799\source\repos\CSHARP_NET_POO\CadastroFuncionario\obj\Debug\net8.0\CadastroFuncionario.genruntimeconfig.cache
+C:\Users\55799\source\repos\CSHARP_NET_POO\CadastroFuncionario\obj\Debug\net8.0\ref\CadastroFuncionario.dll
