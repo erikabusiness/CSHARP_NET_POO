@@ -1,0 +1,15 @@
+C:\Users\55799\source\repos\CSHARP_NET_POO\Boletim\bin\Debug\net8.0\Boletim.exe
+C:\Users\55799\source\repos\CSHARP_NET_POO\Boletim\bin\Debug\net8.0\Boletim.deps.json
+C:\Users\55799\source\repos\CSHARP_NET_POO\Boletim\bin\Debug\net8.0\Boletim.runtimeconfig.json
+C:\Users\55799\source\repos\CSHARP_NET_POO\Boletim\bin\Debug\net8.0\Boletim.dll
+C:\Users\55799\source\repos\CSHARP_NET_POO\Boletim\bin\Debug\net8.0\Boletim.pdb
+C:\Users\55799\source\repos\CSHARP_NET_POO\Boletim\obj\Debug\net8.0\Boletim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55799\source\repos\CSHARP_NET_POO\Boletim\obj\Debug\net8.0\Boletim.AssemblyInfoInputs.cache
+C:\Users\55799\source\repos\CSHARP_NET_POO\Boletim\obj\Debug\net8.0\Boletim.AssemblyInfo.cs
+C:\Users\55799\source\repos\CSHARP_NET_POO\Boletim\obj\Debug\net8.0\Boletim.csproj.CoreCompileInputs.cache
+C:\Users\55799\source\repos\CSHARP_NET_POO\Boletim\obj\Debug\net8.0\Boletim.sourcelink.json
+C:\Users\55799\source\repos\CSHARP_NET_POO\Boletim\obj\Debug\net8.0\Boletim.dll
+C:\Users\55799\source\repos\CSHARP_NET_POO\Boletim\obj\Debug\net8.0\refint\Boletim.dll
+C:\Users\55799\source\repos\CSHARP_NET_POO\Boletim\obj\Debug\net8.0\Boletim.pdb
+C:\Users\55799\source\repos\CSHARP_NET_POO\Boletim\obj\Debug\net8.0\Boletim.genruntimeconfig.cache
+C:\Users\55799\source\repos\CSHARP_NET_POO\Boletim\obj\Debug\net8.0\ref\Boletim.dll
