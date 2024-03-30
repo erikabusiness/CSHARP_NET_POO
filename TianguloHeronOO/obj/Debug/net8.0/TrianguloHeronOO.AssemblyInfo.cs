@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrianguloHeronOO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ebf83352bf64e5f659a128621ee20c5e5d3b235")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+243ffbad3b654b6109b8785d83357e39dfe68c95")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrianguloHeronOO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrianguloHeronOO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

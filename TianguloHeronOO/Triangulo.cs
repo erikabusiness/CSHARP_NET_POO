@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace TrianguloHeronOO
 {
-    internal class Triangulo
+    class Triangulo
     {
         public double A; 
         public double B; 
         public double C;
+
     }
 }

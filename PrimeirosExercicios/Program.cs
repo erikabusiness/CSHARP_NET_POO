@@ -12,6 +12,7 @@
             Funcionario funcionario1, funcionario2;
             funcionario1 = new Funcionario();
             funcionario2 = new Funcionario();
+            
 
             Pessoa[] nomes = { Maria, Joao };
 
@@ -26,12 +27,8 @@
             String verificarMaisVelho = (nomes[0].Idade > nomes[1].Idade ? ("Maria é mais velha!") : ("João é mais velho!"));
             Console.WriteLine(verificarMaisVelho);
 
-            }
-
-
-
         }
 
-
     }
+   
 }
