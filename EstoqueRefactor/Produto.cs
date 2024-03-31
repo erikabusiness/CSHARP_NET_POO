@@ -9,28 +9,31 @@ namespace EstoqueRefactor
 {
     class Produto
     {
-        public string nome;
-        public int qtdEstoque;
-        public double preco;
+        public string Nome;
+        public int QtdEstoque;
+        public double Preco;
+
+        //MÉTODO CONSTRUTOR - TEM O MESMO NOME DA CLASSE - OBRIGA A COLOCAR OS DADOS AO INSTANCIAR A CLASSE
+        public Produto(string nome, int qtdEstoque, double preco)
+        {
+            Nome = nome;
+            Preco = preco;
+            QtdEstoque = qtdEstoque;
+        }
 
         public double ValorTotalEmEstoque()
         {
-            return qtdEstoque * preco;
+            return QtdEstoque * Preco;
         }
         public int AddProdutos(int quantidade)
         {
-            return qtdEstoque += quantidade;
+            return QtdEstoque += quantidade;
         }
 
         internal int removerProdutos(int qtdRemovida)
         {
-           return qtdEstoque -= qtdRemovida;
+           return QtdEstoque -= qtdRemovida;
         }
 
-
-        /*public int ValorTotalEmEstoque(int qtdAddEstoque)
-        {
-            return
-        }*/
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\55799\source\repos\CSHARP_NET_POO\Circunferencia\bin\Debug\net8.0\Circunferencia.exe
+C:\Users\55799\source\repos\CSHARP_NET_POO\Circunferencia\bin\Debug\net8.0\Circunferencia.deps.json
+C:\Users\55799\source\repos\CSHARP_NET_POO\Circunferencia\bin\Debug\net8.0\Circunferencia.runtimeconfig.json
+C:\Users\55799\source\repos\CSHARP_NET_POO\Circunferencia\bin\Debug\net8.0\Circunferencia.dll
+C:\Users\55799\source\repos\CSHARP_NET_POO\Circunferencia\bin\Debug\net8.0\Circunferencia.pdb
+C:\Users\55799\source\repos\CSHARP_NET_POO\Circunferencia\obj\Debug\net8.0\Circunferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55799\source\repos\CSHARP_NET_POO\Circunferencia\obj\Debug\net8.0\Circunferencia.AssemblyInfoInputs.cache
+C:\Users\55799\source\repos\CSHARP_NET_POO\Circunferencia\obj\Debug\net8.0\Circunferencia.AssemblyInfo.cs
+C:\Users\55799\source\repos\CSHARP_NET_POO\Circunferencia\obj\Debug\net8.0\Circunferencia.csproj.CoreCompileInputs.cache
+C:\Users\55799\source\repos\CSHARP_NET_POO\Circunferencia\obj\Debug\net8.0\Circunferencia.sourcelink.json
+C:\Users\55799\source\repos\CSHARP_NET_POO\Circunferencia\obj\Debug\net8.0\Circunferencia.dll
+C:\Users\55799\source\repos\CSHARP_NET_POO\Circunferencia\obj\Debug\net8.0\refint\Circunferencia.dll
+C:\Users\55799\source\repos\CSHARP_NET_POO\Circunferencia\obj\Debug\net8.0\Circunferencia.pdb
+C:\Users\55799\source\repos\CSHARP_NET_POO\Circunferencia\obj\Debug\net8.0\Circunferencia.genruntimeconfig.cache
+C:\Users\55799\source\repos\CSHARP_NET_POO\Circunferencia\obj\Debug\net8.0\ref\Circunferencia.dll

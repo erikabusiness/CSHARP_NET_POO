@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\55799\\source\\repos\\CSHARP_NET_POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C38FC73D-0C84-4472-B5B1-AFA72A43BF0A}|Boletim\\Boletim.csproj|c:\\users\\55799\\source\\repos\\csharp_net_poo\\boletim\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C38FC73D-0C84-4472-B5B1-AFA72A43BF0A}|Boletim\\Boletim.csproj|solutionrelative:boletim\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD5D852A-72AD-4C2F-B85C-8664A8ED9A77}|EstoqueRefactor\\EstoqueRefactor.csproj|c:\\users\\55799\\source\\repos\\csharp_net_poo\\estoquerefactor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5D852A-72AD-4C2F-B85C-8664A8ED9A77}|EstoqueRefactor\\EstoqueRefactor.csproj|solutionrelative:estoquerefactor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C38FC73D-0C84-4472-B5B1-AFA72A43BF0A}|Boletim\\Boletim.csproj|c:\\users\\55799\\source\\repos\\csharp_net_poo\\boletim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C38FC73D-0C84-4472-B5B1-AFA72A43BF0A}|Boletim\\Boletim.csproj|solutionrelative:boletim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD5D852A-72AD-4C2F-B85C-8664A8ED9A77}|EstoqueRefactor\\EstoqueRefactor.csproj|c:\\users\\55799\\source\\repos\\csharp_net_poo\\estoquerefactor\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5D852A-72AD-4C2F-B85C-8664A8ED9A77}|EstoqueRefactor\\EstoqueRefactor.csproj|solutionrelative:estoquerefactor\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,39 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Aluno.cs",
-              "DocumentMoniker": "C:\\Users\\55799\\source\\repos\\CSHARP_NET_POO\\Boletim\\Aluno.cs",
-              "RelativeDocumentMoniker": "Boletim\\Aluno.cs",
-              "ToolTip": "C:\\Users\\55799\\source\\repos\\CSHARP_NET_POO\\Boletim\\Aluno.cs",
-              "RelativeToolTip": "Boletim\\Aluno.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBAAAAAiAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\55799\\source\\repos\\CSHARP_NET_POO\\EstoqueRefactor\\Program.cs",
+              "RelativeDocumentMoniker": "EstoqueRefactor\\Program.cs",
+              "ToolTip": "C:\\Users\\55799\\source\\repos\\CSHARP_NET_POO\\EstoqueRefactor\\Program.cs",
+              "RelativeToolTip": "EstoqueRefactor\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAjwCMAAACHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T22:06:43.489Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-03-31T18:33:16.646Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\55799\\source\\repos\\CSHARP_NET_POO\\Boletim\\Program.cs",
-              "RelativeDocumentMoniker": "Boletim\\Program.cs",
-              "ToolTip": "C:\\Users\\55799\\source\\repos\\CSHARP_NET_POO\\Boletim\\Program.cs",
-              "RelativeToolTip": "Boletim\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA7AAAA",
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\55799\\source\\repos\\CSHARP_NET_POO\\EstoqueRefactor\\Produto.cs",
+              "RelativeDocumentMoniker": "EstoqueRefactor\\Produto.cs",
+              "ToolTip": "C:\\Users\\55799\\source\\repos\\CSHARP_NET_POO\\EstoqueRefactor\\Produto.cs",
+              "RelativeToolTip": "EstoqueRefactor\\Produto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T22:06:21.783Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-03-31T18:29:34.342Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }

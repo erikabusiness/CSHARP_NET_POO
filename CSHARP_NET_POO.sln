@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculoRetangulo", "Calculo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CadastroFuncionario", "CadastroFuncionario\CadastroFuncionario.csproj", "{7A803923-DE9A-4369-961A-A537EF9A3E12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boletim", "Boletim\Boletim.csproj", "{C38FC73D-0C84-4472-B5B1-AFA72A43BF0A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Boletim", "Boletim\Boletim.csproj", "{C38FC73D-0C84-4472-B5B1-AFA72A43BF0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circunferencia", "Circunferencia\Circunferencia.csproj", "{4C736F97-CB45-442C-8549-B0987E82EFB4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{C38FC73D-0C84-4472-B5B1-AFA72A43BF0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C38FC73D-0C84-4472-B5B1-AFA72A43BF0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C38FC73D-0C84-4472-B5B1-AFA72A43BF0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C736F97-CB45-442C-8549-B0987E82EFB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C736F97-CB45-442C-8549-B0987E82EFB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C736F97-CB45-442C-8549-B0987E82EFB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C736F97-CB45-442C-8549-B0987E82EFB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
